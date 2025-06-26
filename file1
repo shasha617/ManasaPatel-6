@@ -1,2 +1,5 @@
 #!/bin/bash
 echo $(pwd)
+hi manu 
+how are you 
+this is Github entry
